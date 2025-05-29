@@ -128,4 +128,8 @@ This AI enhancement improves detection accuracy, especially on non-standard or c
 
 ## License
 
+<<<<<<< HEAD
 MIT
+=======
+MIT# ai_coupon_validation_bot
+>>>>>>> 622d291 (first commit)
